@@ -1,6 +1,6 @@
-# Project Title
+# Frontend Nanodegree Resume
 
-One Paragraph of project description goes here
+The final project from Udacity Frontend Nanodegree Resume 
 
 ## Getting Started
 
